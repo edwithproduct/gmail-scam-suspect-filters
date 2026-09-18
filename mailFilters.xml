@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+  <title>Mail Filters</title>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="載具歸戶異常"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="載具信息核實"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="載具資料有誤"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="發票中獎通知"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="中獎需更新載具"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="獎金自動入帳"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="稅務退稅通知"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="退稅補件"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="補繳關稅"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="補繳運費"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="包裹無法寄達"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="交通違規逾期"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="誤設分期付款"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="重複訂購與定期扣款"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="自動請款"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="通報聯徵"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="通報金融聯合徵信"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="止付驗證"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="中止綁定"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="金流驗證"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="已攔阻可疑登入"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="帳戶最近在多台裝置上使用"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <content></content>
+    <apps:property name='subject' value="信用購"/>
+    <apps:property name='doesNotHaveTheWord' value="from:(gov.tw OR 104.com.tw OR 1111.com.tw OR 518.com.tw OR 7-11.com.tw OR 7-eleven.com.tw OR airbnb.com OR airbnb.com.tw OR apple.com OR books.com.tw OR bot.com.tw OR cake.me OR cakeresume.com OR carrefour.com.tw OR cathaybk.com.tw OR chb.com.tw OR cht.com.tw OR costco.com.tw OR cpc.com.tw OR ctbcbank.com OR ctrip.com OR easycard.com.tw OR edu.tw OR esunbank.com OR esunbank.com.tw OR eztravel.com.tw OR facebook.com OR facebookmail.com OR family.com.tw OR famiport.com.tw OR fetnet.net OR firstbank.com.tw OR foodpanda.com OR foodpanda.tw OR fubon.com OR fubon.com.tw OR google.com OR gov.taipei OR hct.com.tw OR hilife.com.tw OR hncb.com.tw OR ibon.com.tw OR instagram.com OR jkos.com OR kkday.com OR klook.com OR landbank.com.tw OR line.me OR linebank.com.tw OR linecorp.com OR mega.com.tw OR microsoft.com OR momo.com.tw OR momoshop.com.tw OR nextbank.com.tw OR okmart.com.tw OR pchome.com.tw OR presco.com.tw OR pxmart.com.tw OR rakuten-bank.com.tw OR rakuten.com.tw OR ruten.com.tw OR shopee.com OR shopee.tw OR showtimes.com.tw OR sinica.edu.tw OR sinopac.com OR t-cat.com.tw OR taipower.com.tw OR taishinbank.com.tw OR taiwanmobile.com OR tcb-bank.com.tw OR thsrc.com.tw OR trip.com OR uber.com OR ubereats.com OR vscinemas.com.tw OR yes123.com.tw)"/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='label' value="scam-suspect"/>
+    <apps:property name='sizeOperator' value='s_sl'/>
+    <apps:property name='sizeUnit' value='s_smb'/>
+  </entry>
+</feed>
